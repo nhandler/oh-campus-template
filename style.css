@@ -20,7 +20,7 @@ html, body {
 body{
 	font: 120%/1.2 Fantasque-Regular,TrebuchetMS,Arial,sans-serif;  /* Default fonts */
 	text-align: left; /* Alignment of the text */
-	background: #A6B7C8; /* Main text background color */
+	background: #6E8BBF; /* Main text background color */
 	color: black; /* Main text color */
 }
 
@@ -36,7 +36,7 @@ body{
 }
 
 a {                  /* A stands for link, so this section is setting the default characteristics of links. */
-	color: #0000cc;
+	color: #EF8A1C;
 	text-decoration: none;
 }
 
@@ -69,7 +69,7 @@ h2 {		     /* This styles the headers within the page */
 
 /* You can alter the links within a div with the following syntax */
 #plan a {
-	color: #D1EEEE;
+	/* color: #D1EEEE; */
 }
 
 /* This alters the appearance of the div with id="signup". */
