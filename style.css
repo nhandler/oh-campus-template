@@ -95,3 +95,8 @@ h2 {		     /* This styles the headers within the page */
 .image {
        margin-bottom:10px;
 }
+
+img {
+       width:300px;
+       height: auto;
+}
